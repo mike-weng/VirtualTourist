@@ -10,13 +10,12 @@ I have utilized many different technologies including Core Data, Networking, Map
 2. open VirtualTourist.xcodeproj
 
 ## Features
-- Add a pin to the map to download new Flickr Photos
+- Add a pin to the map by tapping on the map
+- Download flickr photos according to geo-location
 - Persist new Pins, Settings and Photos to disk
-- View pins in a map showing your photo albums
-- Tap a pin to find photos taken at that location
-- Organize your collection of photos
-- View your photo galleries
-- Double tap a photo to view full screen
+- View pins in a map
+- Tap a pin to view photos taken at the location
+- Tap a photo to view full screen
 
 ## Project Overview
 
