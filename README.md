@@ -4,6 +4,11 @@ VirtualTourist allows users to tap on anywhere on the map and view all the flick
 
 I have utilized many different technologies including Core Data, Networking, MapKit,Grand Central Dispatch, Multithreading, Model View Controller (MVC), Asynchronous & Concurrent Multithreading
 
+The main concept I learned from this project is to utilize Core Data to persist data in the app. This is a very useful functionality that allows fast access of data and efficient cache. I exploited both NSUserDefaults and CoreDataManager to persist my Model data. 
+
+Core Data is a framework that you use to manage the model layer objects in your application. It provides generalized and automated solutions to common tasks associated with object life cycle and object graph management, including persistence.
+
+
 ## Installation
 
 1. git clone https://github.com/mmmk84512/VirtualTourist
